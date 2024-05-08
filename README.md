@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Manati**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Reactjs** ,**PostgreSQL** 
 
 - 👨‍💻 Portfolio link [https://funny-tick-sunglasses.cyclic.app/](https://funny-tick-sunglasses.cyclic.app/)
 
