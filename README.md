@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Subharanjan</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-🔭 I’m currently working on TelecomOne<br><br>🌱 I’m currently learning React Native<br><br>👨‍💻 Portfolio link https://funny-tick-sunglasses.cyclic.app/<br><br>📫 How to reach me crout12161@gmail.com
+🔭 I’m currently working on **TelecomOne**<br><br>🌱 I’m currently learning **React Native**<br><br>👨‍💻 Portfolio link https://funny-tick-sunglasses.cyclic.app/<br><br>📫 How to reach me crout12161@gmail.com
 
 
 # 💻 Tech Stack:
