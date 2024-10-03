@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 Portfolio link [https://funny-tick-sunglasses.cyclic.app/](https://funny-tick-sunglasses.cyclic.app/)
+- 👨‍💻 Portfolio link https://portfolio-eiqc.vercel.app/
 
 - 📫 How to reach me **crout12161@gmail.com**
 
