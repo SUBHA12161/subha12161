@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subharanjan</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-- 🔭 I’m currently working on **Manati**
+- 🔭 I’m currently working on **TelecomOne**
 
-- 🌱 I’m currently learning **Reactjs** ,**PostgreSQL** 
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 Portfolio link [https://funny-tick-sunglasses.cyclic.app/](https://funny-tick-sunglasses.cyclic.app/)
 
