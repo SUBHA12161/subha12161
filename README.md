@@ -1,4 +1,6 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Subharanjan</h1>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 🔭 I’m currently working on TelecomOne<br><br>🌱 I’m currently learning React Native<br><br>👨‍💻 Portfolio link https://funny-tick-sunglasses.cyclic.app/<br><br>📫 How to reach me crout12161@gmail.com
 
 
@@ -38,10 +40,6 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SUBHA12161&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SUBHA12161&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHA12161&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
