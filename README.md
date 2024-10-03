@@ -1,8 +1,16 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Subharanjan</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-🔭 I’m currently working on **TelecomOne**<br><br>🌱 I’m currently learning **React Native**<br><br>👨‍💻 Portfolio link https://funny-tick-sunglasses.cyclic.app/<br><br>📫 How to reach me crout12161@gmail.com
 
+- 🔭 I’m currently working on **TelecomOne**
+
+- 🌱 I’m currently learning **React Native**
+
+- 👨‍💻 Portfolio link https://portfolio-eiqc.vercel.app/
+
+- 📫 How to reach me **crout12161@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
